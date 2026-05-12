@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-Лабораторная работа №4 — Кинотеатр
-Docker + Flask + SQLAlchemy + SQLite
-"""
 
 from flask import Flask, render_template, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
